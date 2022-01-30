@@ -1,0 +1,16 @@
+[{
+    "nu": 99,
+    "m": 100,
+    "i": "server-eu-1.starve.io",
+    "p": 443,
+    "a": "Starvee - Best Private Ever",
+    "ssl": 1
+},{
+    "nu": 99,
+    "m": 100,
+    "i": "server3334.starve.io",
+    "p": 443,
+    "a": "Starvee - Best Private Ever",
+    "ssl": 1,
+    "re": "Frankfurt"
+}]
